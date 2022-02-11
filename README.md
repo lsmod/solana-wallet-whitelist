@@ -29,4 +29,4 @@ This is a list of trusted wallet for [solana blockchain](https://solana.com)
 Where to find more trustworthy wallet ?
 
 - You can always check on solana [ecosystem page](https://solana.com/ecosystem/explore?categories=wallet)
-- On major dapps ([raydium](https://raydium.io/), [Bonfida](https://dex.bonfida.org), [step.finance](https://app.step.finance)), you if you click on "Connect" you will see a list of accepted wallet
+- In major Dapps ([raydium](https://raydium.io/), [Bonfida](https://dex.bonfida.org), [step.finance](https://app.step.finance)), you if you click on "Connect" you will see a list of accepted wallet
